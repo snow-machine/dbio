@@ -1,0 +1,1 @@
+echo source csvs/init.sql | mysql -uroot -p8912737
